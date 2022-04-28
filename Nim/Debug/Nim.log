@@ -1,0 +1,8 @@
+﻿  playNim.cpp
+C:\Users\sydho\Downloads\Nim\Nim\Nim\playNim.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sydho\Downloads\Nim\Nim\Nim\playNim.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sydho\Downloads\Nim\Nim\Nim\playNim.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sydho\Downloads\Nim\Nim\Nim\playNim.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sydho\Downloads\Nim\Nim\Nim\playNim.cpp(109,14): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sydho\Downloads\Nim\Nim\Nim\playNim.cpp(200): warning C4715: 'getUserAction': not all control paths return a value
+  Nim.vcxproj -> C:\Users\sydho\Downloads\Nim\Nim\Nim\Debug\Nim.exe
